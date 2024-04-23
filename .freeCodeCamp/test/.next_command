@@ -51,3 +51,6 @@ touch questionnaire.sh
 sh questionnaire.sh
 bash questionnaire.sh
 which bash
+cd /usr/bin/bash
+shebang
+__vsc_prompt_cmd_original
