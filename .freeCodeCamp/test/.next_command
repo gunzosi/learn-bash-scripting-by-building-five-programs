@@ -288,3 +288,6 @@ help let
 ./bingo.sh
 ./bingo.sh
 ./bingo.sh
+git commit "Your script should have the suggested "if" statement added correctly"
+git commit -u "Your script should have the suggested "if" statement added correctly"
+git commit
