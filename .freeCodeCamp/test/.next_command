@@ -206,3 +206,5 @@ help [[
 help
 ./countdown.sh 10
 ./countdown.sh 9
+./countdown.sh 9
+./countdown.sh 10
