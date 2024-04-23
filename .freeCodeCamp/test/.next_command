@@ -168,3 +168,5 @@ git push -u
 help
 help if
 help [[
+help if
+help test
