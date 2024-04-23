@@ -161,3 +161,4 @@ git --help
 git remote add origin git@github.com:gunzosi/Shell-Bash-Mini-Project.git
 git clone git@github.com:gunzosi/Shell-Bash-Mini-Project.git
 git push -u
+./countdown.sh 4
