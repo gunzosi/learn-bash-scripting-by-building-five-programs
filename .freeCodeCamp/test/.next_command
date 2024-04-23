@@ -230,3 +230,4 @@ __vsc_prompt_cmd_original
 clear
 ./countdown.sh 5
 touch bingo.sh
+chmod +x bingo.sh
