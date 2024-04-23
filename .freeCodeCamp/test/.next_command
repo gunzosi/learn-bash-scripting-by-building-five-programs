@@ -220,3 +220,4 @@ sleep 3
 echo help
 help echo
 ./countdown.sh 1
+help while
