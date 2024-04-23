@@ -199,3 +199,7 @@ help [[
 [[ -x countdown.sh || 5 -le 4 ]]
 [[ -x countdown.sh || 5 -gt 0 ]]
 ./countdown.sh 1
+./countdown.sh 3
+./countdown.sh 22
+./countdown.sh 22 2
+./countdown.sh 0
