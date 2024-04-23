@@ -96,3 +96,7 @@ chomd +x coutdown.sh
 chmod +x countdown.sh
 clear
 ./countdown.sh
+ls --color=auto -l
+ls --color=auto
+clear
+./countdown.sh arg1 arg2 arg3
