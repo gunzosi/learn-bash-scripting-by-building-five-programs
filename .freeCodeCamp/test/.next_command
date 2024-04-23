@@ -62,3 +62,4 @@ ls --color=auto -l
 ls --color=auto -l
 ls --color=auto -l
 ls --color=auto -l -r
+./questionnaire.sh
