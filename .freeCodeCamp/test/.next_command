@@ -186,3 +186,6 @@ bad_command
 ls --color=auto
 ls --color=auto
 ls --color=auto
+ls --color=auto -y
+ls --color=auto -y
+ls --color=auto -y
