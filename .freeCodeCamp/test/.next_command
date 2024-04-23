@@ -95,3 +95,4 @@ chomd +x
 chomd +x coutdown.sh
 chmod +x countdown.sh
 clear
+./countdown.sh
