@@ -90,3 +90,7 @@ clear
 clear
 ./questionnaire.sh
 touch countdown.sh
+chomid +x
+chomd +x
+chomd +x coutdown.sh
+chmod +x countdown.sh
