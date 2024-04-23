@@ -71,3 +71,4 @@ bash questionnaire.sh
 echo Hello Ocean
 ./questionnaire.sh
 ./questionnaire.sh
+./questionnaire.sh
