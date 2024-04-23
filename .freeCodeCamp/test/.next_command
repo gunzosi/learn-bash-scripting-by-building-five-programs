@@ -217,3 +217,5 @@ sleep 3
 ./countdown.sh 3
 ./countdown.sh 3
 ./countdown.sh 3
+echo help
+help echo
